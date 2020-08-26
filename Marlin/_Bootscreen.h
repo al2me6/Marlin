@@ -1,0 +1,1 @@
+../config/config/examples/Creality/Ender-3 Pro/_Bootscreen.h
