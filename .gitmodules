@@ -1,0 +1,4 @@
+[submodule "config"]
+	path = config
+	url = https://github.com/al2me6/Configurations
+	branch = bugfix-2.0.x
